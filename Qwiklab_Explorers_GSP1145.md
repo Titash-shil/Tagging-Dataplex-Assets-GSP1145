@@ -9,11 +9,11 @@
 
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Get-Started-with-Sensitive-Data-Protection-Challenge-Lab-ARC116-Updated-May/refs/heads/main/qwiklab_explorers_arc116.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Tagging-Dataplex-Assets-GSP1145/refs/heads/main/qwiklab_explorers_gsp1145.sh
 
-sudo chmod +x qwiklab_explorers_arc116.sh
+sudo chmod +x qwiklab_explorers_gsp1145.sh
 
-./qwiklab_explorers_arc116.sh
+./qwiklab_explorers_gsp1145.sh
 ```
 ---
 
