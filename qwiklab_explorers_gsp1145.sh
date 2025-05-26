@@ -18,7 +18,7 @@ UNDERLINE_TEXT=$'\033[4m'
 # Displaying start message
 
 echo
-echo "${GREEN_TEXT}${BOLD_TEXT} Enter REGION: ${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT} Enter REGION:${RESET_FORMAT}"
 read -r REGION
 
 export REGION=$REGION
